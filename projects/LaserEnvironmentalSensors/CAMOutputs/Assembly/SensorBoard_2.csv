@@ -1,0 +1,11 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"AVAILABILITY";"DESCRIPTION";"MF";"MP";"PACKAGE";"POPULARITY";"PRICE";"SPICEPREFIX";"TP_SIGNAL_NAME";
+"2";"0.1u";"C-USC0603";"C0603";"C3, C5";"CAPACITOR, American symbol";"";"";"";"";"";"37";"";"C";"";
+"1";"10u";"C-USC0805";"C0805";"C4";"CAPACITOR, American symbol";"";"";"";"";"";"63";"";"C";"";
+"2";"1n";"C-USC0402";"C0402";"C1, C2";"CAPACITOR, American symbol";"";"";"";"";"";"16";"";"C";"";
+"1";"BD750L5FP-CE2";"BD750L5FP-CE2";"TO252-3";"REG1";"";"";"";"";"";"";"";"";"";"";
+"1";"BZT52-B47J";"BZT52-B47J";"SOD123";"Z1";"";"";"";"";"";"";"";"";"";"";
+"1";"DSUB15HD_09561625813";"DSUB15HD_09561625813";"DSUB15_HD";"DSUB1";"";"";"";"";"";"";"";"";"";"";
+"1";"HSCMRNN015PAAA5";"HSCMRNN015PAAA5";"SMD-8";"U2";"";"";"";"";"";"";"";"";"";"";
+"3";"MOLEX_22232031";"MOLEX_22232031";"MOLEX_KK254";"J1, J2, J3";"";"";"";"";"";"";"";"";"";"";
+"1";"SHT31-ARP-B";"SHT31-ARP-B";"SON50P250X250X100-9N";"U1";"SHT31 Series 5.5 V 800 µA Surface Mount Humidity and Temperature Sensor";"Unavailable";" SHT3x Series 5.5 V ±2%RH 0 to 100% Temperature and Humidity Sensor - DFN-8 ";"Sensirion AG";"SHT31-ARP-B";"DFN-8 Sensirion";"";"None";"";"";
+"9";"TPB1,27";"TPB1,27";"B1,27";"TP_5V, TP_GND, TP_J1, TP_J2, TP_J3, TP_PRESS, TP_RH, TP_TEMP, TP_VIN";"Test pad";"";"";"";"";"";"";"";"";"";
